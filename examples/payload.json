@@ -1,0 +1,1 @@
+{"api_key":"sk-live-abc123XYZ","contact":{"email":"zhangwei@example.com","phone":"13812345678"},"note":"普通备注文本，无敏感信息","password":"s3cr3t-p@ss","servers":[{"host":"192.168.1.100","token":"tok_abcdef123"},{"host":"10.0.0.5","note":"备用节点"}],"user":"zhangwei"}
